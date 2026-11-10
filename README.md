@@ -5,7 +5,7 @@
 
 ## Dépôts réalisés
 - Exercice 1 : https://github.com/ilyass-siboub/calcul-c
-- Exercice 2 (binôme, rôle : A ou B) : https://github.com/ilyass-siboub/calcul-c-equipe
+- Exercice 2 (binôme, rôle : A) : https://github.com/ilyass-siboub/calcul-c-equipe
 - Pull request fusionnée : (https://github.com/ilyass-siboub/calcul-c-equipe/pull/1)
 
 ## Bilan des commandes
